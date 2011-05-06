@@ -1,10 +1,10 @@
 2011-05-11
 ====
 1. target: 
-   css/jquery
+   mketc
 2. task:	
-   a slider, tag cloud  calendar
-3. schedule: 2011-05-07 to 2011-05-10
+   a ERP written by Pyside
+3. schedule: 2011-05-11 to 2011-05-25
 4. progress: 
     0%
 
@@ -16,7 +16,7 @@
    a slider, tag cloud  calendar
 3. schedule: 2011-05-07 to 2011-05-10
 4. progress: 
-    0%
+    60%
 
 2011-04-29
 ====

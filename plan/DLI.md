@@ -4,7 +4,7 @@
    idevice restore
 2. task:	
    prototype on restore idevice on osx platform.
-3. schedule: from 2010-04-17 to 2010-04-30
+3. schedule: from 2010-04-17 to 2010-05-12
 4. progress: 
     0%
 
