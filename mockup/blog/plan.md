@@ -14,10 +14,12 @@ Function
 ----
 + About, show user resume by markdown.
 + Blog, user can view archive by Year/Month or by Tag.
-+ Archives, show all archives by Category.
++ Archives, show archives by Category.
 + Category, user can view archive by Category. 
 + Tags, user can view archive by tag.
 + Feed, User can feed archive.
++ Paginate, User can view archives by pages.
++ Slug, User can view one archive by slug.
 + Backend admin
   + Archive admin
     + New, user can input the body by markdown.
