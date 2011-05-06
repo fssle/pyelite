@@ -1,71 +1,70 @@
-2010-05-07
+2011-05-11
 ====
 1. target: 
    css/jquery
 2. task:	
-   a slider, tag cloud or calendar
-3. schedule: 2010-04-30
+   a slider, tag cloud  calendar
+3. schedule: 2011-05-07 to 2011-05-10
 4. progress: 
     0%
-5. code:
 
-2010-04-29
+2011-05-07
 ====
 1. target: 
-   a little cms
+   css/jquery
 2. task:	
-   write a simple cms, with markup file, calendar support, captcha search, pdf gen.
-3. schedule: from 2010-04-22 to 2010-05-06
+   a slider, tag cloud  calendar
+3. schedule: 2011-05-07 to 2011-05-10
 4. progress: 
     0%
 
-2010-04-22
+2011-04-29
 ====
 1. target: 
-   a little cms
+   a simple cms
 2. task:	
-   write a simple cms, with markdown file, calendar support.
-3. schedule: from 2010-04-22 to 2010-04-29
+   write a simple cms, with dropdown menu, markup file, captcha, search, pdf gen.
+3. schedule: from 2011-04-22 to 2011-05-06
 4. progress: 
     0%
 
-2010-04-14
+2011-04-14
 ====
 1. target: 
    blog
 2. task:	
-   write a simple blog, with rss, comments feature.
-3. schedule: from 2010-04-14 to 2010-04-21
+   write a simple blog, with rss, comments, paginate feature.
+3. schedule: from 2011-04-14 to 2011-04-21
 4. progress: 
     100%
 
-2010-04-06
+2011-04-06
 ====
 1. target: 
-	 write a simple markdown blog.
+	 a simple blog.
 2. task:	
-   write a simple blog 
-3. schedule: from 2010-04-06 to 2010-04-13
+   write a simple blog with markdown file
+3. schedule: from 2011-04-06 to 2011-04-13
 4. progress: 
     0%
 
-2010-04-02
+2011-04-02
 ====
 1. target: 
 	 CSS
 2. task:	
    write a slider plugin
-3. schedule: from 2010-04-02 to 2010-04-05
+3. schedule: from 2011-04-02 to 2011-04-05
 4. progress: 
     0%
 
-2010-03-29
+2011-03-29
 ====
 1. target: 
 	 jQuery
 2. task:	
    write a calendar plugin 
-3. schedule: from 2010-03-29 to 2010-04-01
+3. schedule: from 2011-03-29 to 2011-04-01
 4. progress: 
     0%
 
@@ -76,7 +75,7 @@
 	 REST
 2. task:	
    write a "pyelite" website 
-3. schedule: from 2010-03-21 to 2010-03-28
+3. schedule: from 2011-03-21 to 2011-03-28
 4. progress: 
     0%
 
@@ -85,7 +84,7 @@
 1. target: django
 2. task:	
     write a "yivong" website
-3. schedule: from 2010-03-17 to 2010-03-20
+3. schedule: from 2011-03-17 to 2011-03-20
 4. progress: 
     0%
 
@@ -95,7 +94,7 @@
     markdown
 2. task:	
     write a "resume" website
-3. schedule: 2010-03-16
+3. schedule: 2011-03-16
 4. progress: 
     0%
 
@@ -105,7 +104,7 @@
     apache/nginx, sqlite3/mysql/mongodb, uwsgi, chef/puppet
 2. task:	
     deploy the web to vps
-3. schedule: from 2010-03-09 to 2010-03-15
+3. schedule: from 2011-03-09 to 2011-03-15
 4. progress: 
     0%
 
@@ -115,7 +114,7 @@
     http://help.github.com/git-cheat-sheets
 2. task:	
     push your diary and source code to github
-3. schedule: 2010-03-08
+3. schedule: 2011-03-08
 4. progress: 
     0%
 
@@ -124,7 +123,7 @@
 1. target: django
 2. task:	
     write a little "ERP" website
-3. schedule: from 2010-03-01 to 2010-03-07
+3. schedule: from 2011-03-01 to 2011-03-07
 4. progress: 
     settings, admin, view, template, south, database
 
@@ -133,7 +132,7 @@
 1. target: django
 2. task:	
     write a little "hello world" website
-3. schedule: from 2010-01-13 to 2010-01-20
+3. schedule: from 2011-01-13 to 2011-01-20
 4. progress: 
     done.
  
@@ -251,7 +250,7 @@
     import this
 2. task:	
     how to install python under linux and osx. 
-3. schedule: one week from 2010-01-03 to 2010-01-10
+3. schedule: one week from 2011-01-03 to 2011-01-10
 4. must to do: dairy and tech note.
 5. skills: English, Type
 6. others: salary, launch, travel, health

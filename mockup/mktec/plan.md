@@ -8,6 +8,10 @@ GUI
 
 + Pyside
 + QT4
+
+Database
+----
+
 + sqlite3
 
 Screenshot
@@ -32,7 +36,7 @@ Screenshot
 Function
 ----
 + login 
-    input user and password.
+     + input user and password.
 + trade 
      + search a product with code
      + input the product count, 
