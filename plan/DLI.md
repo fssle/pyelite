@@ -1,19 +1,17 @@
-2010-04-17
+2010-05-12
 ====
-1. target: 
-   idevice restore
-2. task:	
-   prototype on restore idevice on osx platform.
-3. schedule: from 2010-04-17 to 2010-05-12
-4. progress: 
-    0%
++ target: ideviceinstaller
++ task:	prototype on install ipa on osx platform.
++ schedule: from 2010-05-13 to 2010-05-27
++ progress: 0%
++ source: https://github.com/lite/irestore
++ features:
 
-2010-04-09
-====
-1. target: 
-   usbmuxd logger
-2. task:	
-   a log utility work with usbmuxd on osx platform.
-3. schedule: from 2010-04-09 to 2010-04-16
-4. progress: 
-    0%
+> + idevicerestore
+> + ideviceinfo
+> + inofity
+> + ideviceactivate
+
++ TODO:
+
+> + ideviceinstaller 
