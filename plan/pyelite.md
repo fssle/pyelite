@@ -7,8 +7,8 @@
 
 2011-05-13
 ----
-+ target: yiwong
-+ task:	rewrite yiwong website
++ target: yiweng
++ task:	rewrite yiweng website
 + schedule: 2011-05-13
 + progress: 0%
 
@@ -50,7 +50,7 @@
 2011-03-17
 ----
 + target: django
-+ task: write a "yivong" website
++ task: write a "yiweng" website
 + schedule: from 2011-03-17 to 2011-03-20
 + progress: 0%
 
